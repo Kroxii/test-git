@@ -1,6 +1,6 @@
 # test-git
 Test repository for study
 
-# how to install,
+# how to install
 - Use your brain
 - RTFM
